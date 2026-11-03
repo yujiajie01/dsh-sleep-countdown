@@ -1,0 +1,3 @@
+- insert:
+    - id: sleep-countdown
+      name: '@local/sleep-countdown'
